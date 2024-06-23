@@ -14,6 +14,17 @@ Please contact us via email at [info@kakipod.com](mailto:info@kakipod.com).
 
 Please contact us via email at [info@kakipod.com](mailto:info@kakipod.com).
 
+### 3. Can you remove my podcast from your app?
+
+We only provide curated publicly available free podcast in our app.
+We directly stream podcast audio from the podcast owners servers. We do not cache, re-serve your podcast. 
+We only serve transciptions that we generate via Speech-To-Text AI models.
+If you are not happy us listing your podcast in our app, please contact us via email at [info@kakipod.com](mailto:info@kakipod.com) with a proof that you are actually the owner of the podcast. 
+
+### 4. Can you correct a certain transcription?
+
+If transcription contains inaccurate harmful content, we will correct it upon contact via email at [info@kakipod.com](mailto:info@kakipod.com).
+
 ### Issues with Transcriptions or Translations
 
 - As the transcriptions/translations/explanations are powered by AI, there can always be some inaaccuracies, wrong information etc. If the the incorrectness is consistent and or making the app useless, contact us via email at [info@kakipod.com](mailto:info@kakipod.com).
