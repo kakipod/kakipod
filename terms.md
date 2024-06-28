@@ -1,10 +1,10 @@
 # Terms and Conditions
 
-**Effective Date:** 2 June 2024
+**Effective Date:** 28 June 2024
 
 ## 1. Acceptance of Terms
 
-By accessing or using the Kakipod app ("App"), you agree to comply with and be bound by these Terms and Conditions ("Terms"). If you do not agree with these Terms, please do not use the App.
+By accessing or using the Kakipod app ("App"), you agree to comply with and be bound by these Terms and Conditions ("Terms"). If you do not agree with these Terms, please do not use the App. By using this service, you affirm that you are 18 years or older to enter into these terms, or, if you are not, that you are 13 years or older and have obtained parental or guardian consent to enter into these terms.
 
 ## 2. Changes to Terms
 
